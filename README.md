@@ -1,6 +1,6 @@
-# Rushitha Anugu - Portfolio Website
+# Rushitha - Portfolio Website
 
-A modern, responsive portfolio website showcasing professional experience, skills, and education for Sr Data Engineer and AI Engineer positions.
+A modern, responsive portfolio website showcasing professional experience, skills, and education for data engineering and AI engineering roles. This repo is now fully owned and ready to customize for Rushitha.
 
 ## Features
 
@@ -89,12 +89,12 @@ Feel free to customize the following:
 
 ## Contact
 
-- **Email**: anugurushitha01@gmail.com
-- **Phone**: +1 (940) 843-5023
-- **LinkedIn**: [linkedin.com/in/rushithareddy/](https://linkedin.com/in/rushithareddy/)
-- **Location**: Denton, TX, USA
+- **Email**: rushitha@example.com
+- **Phone**: +1 (425) 555-9876
+- **LinkedIn**: [linkedin.com/in/rushitha](https://linkedin.com/in/rushitha)
+- **Location**: Hyderabad, India
 
 ---
 
-© 2025 Rushitha Anugu. All rights reserved.
+© 2025 Rushitha. All rights reserved.
 

@@ -151,5 +151,5 @@ if (subtitle) {
 
 // Print console message
 console.log('%c👋 Hello! Thanks for checking out my portfolio!', 'color: #6366f1; font-size: 16px; font-weight: bold;');
-console.log('%cInterested in connecting? Reach out at anugurushitha01@gmail.com', 'color: #64748b; font-size: 14px;');
+console.log('%cInterested in connecting? Reach out at rushitha@example.com', 'color: #64748b; font-size: 14px;');
 
