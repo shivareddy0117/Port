@@ -64,14 +64,13 @@ Simply double-click on `index.html` to open it directly in your browser (may hav
 
 ## Deployment (GitHub Pages)
 
-This repository is preconfigured to deploy to GitHub Pages using Actions:
+This repo is ready to publish straight to GitHub Pages via the included Action (`.github/workflows/deploy.yml`). To ship the site:
 
-1. Ensure your default branch is `main` and push your changes.
-2. In the repository **Settings → Pages**, select **GitHub Actions** as the source (the workflow file lives in `.github/workflows/deploy.yml`).
-3. The workflow will upload the site artifacts and publish to the `github-pages` environment automatically.
-4. Once the workflow succeeds, your site will be available at `https://<your-username>.github.io/<repository-name>/`.
+1. Push to the `main` branch (or trigger the workflow manually from **Actions → Deploy Portfolio to GitHub Pages → Run workflow**).
+2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as the source so Pages uses the workflow output.
+3. After the workflow finishes, copy the URL shown under **Deployments → github-pages**—it will look like `https://<username>.github.io/<repository-name>/`.
 
-The workflow runs on each push to `main` or via manual dispatch, so updates are published as soon as they merge.
+Every push to `main` republishes automatically with the latest HTML, CSS, and JS.
 
 ## File Structure
 
