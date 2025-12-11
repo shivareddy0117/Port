@@ -1,0 +1,21 @@
+# Azure Static Web Apps
+.azure/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node modules (if using build tools later)
+node_modules/
+
+# Environment files
+.env
+.env.local
+
