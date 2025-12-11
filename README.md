@@ -1,6 +1,6 @@
-# Rushitha Anugu - Portfolio Website
+# Rushitha - Portfolio Website
 
-A modern, responsive portfolio website showcasing professional experience, skills, and education for Sr Data Engineer and AI Engineer positions.
+A modern, responsive portfolio website showcasing professional experience, skills, and education for data engineering and AI engineering roles. This repo is now fully owned and ready to customize for Rushitha.
 
 ## Features
 
@@ -62,6 +62,16 @@ Then open your browser and navigate to: `http://localhost:8000`
 
 Simply double-click on `index.html` to open it directly in your browser (may have limited functionality for some features).
 
+## Deployment (GitHub Pages)
+
+This repo is ready to publish straight to GitHub Pages via the included Action (`.github/workflows/deploy.yml`). To ship the site:
+
+1. Push to the `main` branch (or trigger the workflow manually from **Actions → Deploy Portfolio to GitHub Pages → Run workflow**).
+2. In **Settings → Pages → Build and deployment**, choose **GitHub Actions** as the source so Pages uses the workflow output.
+3. After the workflow finishes, copy the URL shown under **Deployments → github-pages**—it will look like `https://<username>.github.io/<repository-name>/`.
+
+Every push to `main` republishes automatically with the latest HTML, CSS, and JS.
+
 ## File Structure
 
 ```
@@ -89,12 +99,12 @@ Feel free to customize the following:
 
 ## Contact
 
-- **Email**: anugurushitha01@gmail.com
-- **Phone**: +1 (940) 843-5023
-- **LinkedIn**: [linkedin.com/in/rushithareddy/](https://linkedin.com/in/rushithareddy/)
-- **Location**: Denton, TX, USA
+- **Email**: rushitha@example.com
+- **Phone**: +1 (425) 555-9876
+- **LinkedIn**: [linkedin.com/in/rushitha](https://linkedin.com/in/rushitha)
+- **Location**: Hyderabad, India
 
 ---
 
-© 2025 Rushitha Anugu. All rights reserved.
+© 2025 Rushitha. All rights reserved.
 
